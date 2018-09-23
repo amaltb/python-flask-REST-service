@@ -1,0 +1,4 @@
+oauth2
+requests
+psycopg2
+Flask==0.12.3
